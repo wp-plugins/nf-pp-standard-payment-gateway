@@ -19,7 +19,12 @@ Features:
 * Enable/Disable Paypal gateway on individual Forms
 * Fields Mapping
 
+Coming Soon PRO version features:
 
+* Recurring Payments
+* Trail Period option
+* Advance Reports
+* and many more...
 
 
 == Installation ==
