@@ -1,4 +1,4 @@
-=== PP Standard Gateway for NF ===
+=== Paypal Standard Gateway for Ninja Forms ===
 Contributors: aman086
 Donate link: http://webholics.in
 Requires at least: 3.5
@@ -7,7 +7,7 @@ Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
 
-PP Standard Gateway for NF
+Paypal Standard Gateway for Ninja Forms
 
 == Description ==
 Paypal Standard Gateway for Ninja Forms lets you create forms integrated with paypal payment gateway. You can create custom order form and take payments using Paypal standard account.
