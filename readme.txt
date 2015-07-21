@@ -2,7 +2,7 @@
 Contributors: aman086
 Donate link: http://webholics.in
 Requires at least: 3.5
-Tags: ninja forms,forms,field,payment gateway,payment gateways,nf paypal,ninja paypal,paypal standard gateway,donation,recurring,trial,form payment gateway,ninja forms paypal
+Tags: ninja forms,forms,field,payment gateway,payment gateways,nf paypal,ninja paypal,paypal standard gateway,donation,recurring,trial,donation,ninja forms paypal gateway
 Tested up to: 4.2
 Stable tag: 1.0
 License: GPLv2 or later
