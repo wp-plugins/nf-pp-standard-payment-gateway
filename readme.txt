@@ -19,7 +19,7 @@ Features:
 * Enable/Disable Paypal gateway on individual Forms
 * Fields Mapping
 
-Coming Soon PRO version features:
+Get <a href="http://www.webholics.in/downloads/nf-paypal-standard-pro/">PRO</a> version for more features:
 
 * Recurring Payments
 * Trial Period option
