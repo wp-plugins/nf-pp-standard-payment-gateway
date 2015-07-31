@@ -20,14 +20,14 @@ Features:
 * Fields Mapping
 
 Get <a href="http://www.webholics.in/downloads/nf-paypal-standard-pro/?utm_source=wporgplugin&utm_medium=wporg&utm_campaign=nf%20paypal">PRO</a> version for more features:
-
+`
 PRO Version Features:
 
 * Recurring Payments
 * Trial Period option
 * Advance Reports
 * and many more...
-
+`
 
 == Installation ==
 * Upload the plugin to wp-content->plugins directory,
