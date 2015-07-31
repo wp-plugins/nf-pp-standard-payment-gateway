@@ -29,7 +29,6 @@ PRO Version Features:
 * and many more...
 `
 
-
 == Installation ==
 * Upload the plugin to wp-content->plugins directory,
 * Activate it from wordpress dashboard
